@@ -5,3 +5,4 @@ Website of B1: <br>
 Related Websites: <br>
 [Class Chat](https://panagiotis-katziotis.github.io/class-photo/)
 [Class Photo](https://panagiotis-katziotis.github.io/class-photo/)
+[Game Leaderboard](https://panagiotis-katziotis.github.io/class-gameleaderboard/)
